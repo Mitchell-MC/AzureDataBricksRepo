@@ -118,7 +118,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/mccallum.mitchell@gmail.com"
+					"notebookPath": "/Users/mccallum.mitchell@gmail.com/Project_Model_Training_RF"
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",
