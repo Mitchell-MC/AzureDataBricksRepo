@@ -1,0 +1,21 @@
+{
+	"name": "ds_mydatalake_Posts",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_my_blob",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "Posts",
+				"fileSystem": "ml-project"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

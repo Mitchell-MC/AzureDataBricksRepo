@@ -1,0 +1,9 @@
+{
+	"name": "BasedDatapilledFactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02052196-700b-4746-aa1d-7018546bf1b9",
+		"tenantId": "fe430baf-d8fd-4e6c-a1a0-506f627a436f"
+	}
+}
